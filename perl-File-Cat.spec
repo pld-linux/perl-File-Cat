@@ -25,7 +25,7 @@ Modu³ perla File-Cat - cat(1) dla perla.
 
 %build
 perl Makefile.PL
-make
+%{__make}
 
 %install
 rm -rf $RPM_BUILD_ROOT
