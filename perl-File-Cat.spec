@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	File
 %define	pnam	Cat
-Summary:	File-Cat perl module
-Summary(pl):	Modu³ perla File-Cat
+Summary:	File::Cat perl module
+Summary(pl):	Modu³ perla File::Cat
 Name:		perl-File-Cat
 Version:	1.2
 Release:	8
@@ -15,10 +15,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-File-Cat perl module - Perl implementation of cat(1).
+File::Cat perl module - Perl implementation of cat(1).
 
 %description -l pl
-Modu³ perla File-Cat - cat(1) dla perla.
+Modu³ perla File::Cat - cat(1) dla perla.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
