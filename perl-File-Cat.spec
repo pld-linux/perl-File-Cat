@@ -5,7 +5,7 @@ Summary:	File::Cat perl module
 Summary(pl):	Modu³ perla File::Cat
 Name:		perl-File-Cat
 Version:	1.2
-Release:	8
+Release:	9
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
