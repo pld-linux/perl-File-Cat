@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	File
-%define	pnam	Cat
+%define		pdir	File
+%define		pnam	Cat
 Summary:	File::Cat - Perl implementation of cat(1)
 Summary(pl):	File::Cat - implementacja cat(1) w Perlu
 Name:		perl-File-Cat
