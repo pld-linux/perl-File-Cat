@@ -1,12 +1,11 @@
+%include	/usr/lib/rpm/macros.perl
 %define	pdir	File
 %define	pnam	Cat
-%include	/usr/lib/rpm/macros.perl
 Summary:	File-Cat perl module
 Summary(pl):	Modu³ perla File-Cat
 Name:		perl-File-Cat
 Version:	1.2
-Release:	7
-
+Release:	8
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
@@ -22,7 +21,7 @@ File-Cat perl module - Perl implementation of cat(1).
 Modu³ perla File-Cat - cat(1) dla perla.
 
 %prep
-%setup -q -n File-Cat-%{version}
+%setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
 perl Makefile.PL
