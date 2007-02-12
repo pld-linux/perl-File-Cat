@@ -6,7 +6,7 @@
 %define		pdir	File
 %define		pnam	Cat
 Summary:	File::Cat - Perl implementation of cat(1)
-Summary(pl):	File::Cat - implementacja cat(1) w Perlu
+Summary(pl.UTF-8):   File::Cat - implementacja cat(1) w Perlu
 Name:		perl-File-Cat
 Version:	1.2
 Release:	10
@@ -26,12 +26,12 @@ File::Cat is a module of adventure, danger, and low cunning. With it,
 you will explore some of the most inane programs ever seen by mortals.
 No computer should be without one!
 
-%description -l pl
-Modu≥ File::Cat - implementacja cat(1) w Perlu.
+%description -l pl.UTF-8
+Modu≈Ç File::Cat - implementacja cat(1) w Perlu.
 
-File::Cat jest modu≥em z przygodami, niebezpiecznym i ma≥o pomys≥owym.
-Przy jego pomocy moøna stworzyÊ kilka spo∂rÛd najg≥upszych programÛw
-jakie widzieli ∂miertelnicy. Na kaødym komputerze powinien byÊ choÊ
+File::Cat jest modu≈Çem z przygodami, niebezpiecznym i ma≈Ço pomys≈Çowym.
+Przy jego pomocy mo≈ºna stworzyƒá kilka spo≈õr√≥d najg≈Çupszych program√≥w
+jakie widzieli ≈õmiertelnicy. Na ka≈ºdym komputerze powinien byƒá choƒá
 jeden taki!
 
 %prep
