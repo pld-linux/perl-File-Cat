@@ -6,7 +6,7 @@
 %define		pdir	File
 %define		pnam	Cat
 Summary:	File::Cat - Perl implementation of cat(1)
-Summary(pl.UTF-8):   File::Cat - implementacja cat(1) w Perlu
+Summary(pl.UTF-8):	File::Cat - implementacja cat(1) w Perlu
 Name:		perl-File-Cat
 Version:	1.2
 Release:	10
