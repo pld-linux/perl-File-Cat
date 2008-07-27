@@ -9,7 +9,7 @@ Summary:	File::Cat - Perl implementation of cat(1)
 Summary(pl.UTF-8):	File::Cat - implementacja cat(1) w Perlu
 Name:		perl-File-Cat
 Version:	1.2
-Release:	10
+Release:	11
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
