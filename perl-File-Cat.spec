@@ -4,7 +4,6 @@
 
 %define		pdir	File
 %define		pnam	Cat
-%include	/usr/lib/rpm/macros.perl
 Summary:	File::Cat - Perl implementation of cat(1)
 Summary(pl.UTF-8):	File::Cat - implementacja cat(1) w Perlu
 Name:		perl-File-Cat
